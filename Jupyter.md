@@ -21,7 +21,7 @@ de usar e a linguagem própria como também customizar sua interface(como é o c
 que são baseadas em Python.
 
 
-###Exemplo de aplicação
+### Exemplo de aplicação
 
 Sendo tal ambiente ideal para desenvolver este tipo de documentação, ele é bastante utilizado para anotações. Uma aplicação do Jupyter que trago
 é a do usuário ‘shudima’ no github. Em suma, no seu repositório chamado de ‘notebooks’ na plataforma, vemos a criação de programas de rede neural ou
